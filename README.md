@@ -1,0 +1,1 @@
+Run `go run .` from directory root
